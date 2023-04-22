@@ -7,6 +7,10 @@
     "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git": [
       "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git",
       "1682187857266"
+    ],
+    "https://github.com/PaigeProtagonist/cube_PaigeProtagonist.git": [
+      "https://github.com/PaigeProtagonist/cube_PaigeProtagonist.git",
+      "1682188611151"
     ]
   },
   "studio-open-web": {},
@@ -18,6 +22,10 @@
     "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git:TextToSpeech.groovy": [
       "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git",
       "TextToSpeech.groovy"
+    ],
+    "https://github.com/PaigeProtagonist/cube_PaigeProtagonist.git:cube.groovy": [
+      "https://github.com/PaigeProtagonist/cube_PaigeProtagonist.git",
+      "cube.groovy"
     ]
   },
   "BowlerStudioConfigs": {
