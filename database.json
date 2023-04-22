@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
+      "TechnocopiaPlant/ForkyRobot",
+      "1682192183345"
+    ],
     "https://github.com/PaigeProtagonist/helloWorld_PaigeProtagonist.git": [
       "https://github.com/PaigeProtagonist/helloWorld_PaigeProtagonist.git",
       "1682187491036"
