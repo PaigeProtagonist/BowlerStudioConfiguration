@@ -3,6 +3,10 @@
     "https://github.com/PaigeProtagonist/helloWorld_PaigeProtagonist.git": [
       "https://github.com/PaigeProtagonist/helloWorld_PaigeProtagonist.git",
       "1682187491036"
+    ],
+    "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git": [
+      "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git",
+      "1682187857266"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://github.com/PaigeProtagonist/helloWorld_PaigeProtagonist.git:helloWorld.groovy": [
       "https://github.com/PaigeProtagonist/helloWorld_PaigeProtagonist.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git:TextToSpeech.groovy": [
+      "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git",
+      "TextToSpeech.groovy"
     ]
   },
   "BowlerStudioConfigs": {
