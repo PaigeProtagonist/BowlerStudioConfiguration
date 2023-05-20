@@ -34,10 +34,6 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftCad.groovy"
     ],
-    "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git:TextToSpeech.groovy": [
-      "https://github.com/PaigeProtagonist/TextToSpeech_PaigeProtagonist.git",
-      "TextToSpeech.groovy"
-    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftWalk.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftWalk.groovy"
